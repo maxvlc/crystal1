@@ -1,0 +1,18 @@
+name: demo1
+version: 0.1.0
+
+authors:
+  -  <maxcar@gmail.com>
+
+targets:
+  demo1:
+    main: src/demo1.cr
+
+crystal: 0.23.1
+
+license: MIT
+
+dependencies:
+  kemal:
+    github: kemalcr/kemal
+    branch: master
