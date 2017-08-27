@@ -16,3 +16,5 @@ dependencies:
   kemal:
     github: kemalcr/kemal
     branch: master
+  kemal-session:
+    github: kemalcr/kemal-session
